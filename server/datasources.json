@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds045632.mlab.com",
+    "port": 45632,
+    "url": "",
+    "database": "ang4seo",
+    "password": "admin",
+    "name": "mongodb",
+    "user": "admin",
+    "connector": "mongodb"
+  }
+}
